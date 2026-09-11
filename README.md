@@ -10,8 +10,6 @@ I'm an engineering student with a strong interest in research, low-level mechani
   - *The goal:* Using Invertible Neural Networks (INNs) for link prediction in Knowledge Graphs to achieve **explainable** ML predictions.
 
 ## 💻 Tech Stack & Tools
-
-The primary languages I work with:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
