@@ -26,6 +26,9 @@ I'm an engineering student with a strong interest in research, low-level mechani
 <a href="https://www.linkedin.com/in/matteo-evola/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="mailto:pro.matteo.evola@outlook.fr">
+  <img src="[https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)" alt="Email" />
+</a>
 
 ---
 ⭐️ From [matevl](https://github.com/matevl)
