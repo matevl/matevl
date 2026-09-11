@@ -4,16 +4,18 @@
 
 I'm an engineering student with a strong interest in research, low-level mechanics, and clean code. I'm currently looking for an **internship** to put my skills to work in a real-world environment.
 
-## 🎓 What I'm up to
+## 🎓 What I've been up to
 
-- 🔭 Working on a research project for the **LRE** (EPITA's Research Laboratory): [**inn-models-kglp**](https://github.com/matevl/inn-models-kglp).
-  - *The goal:* Using Invertible Neural Networks (INNs) for link prediction in Knowledge Graphs to achieve **explainable** ML predictions.
+- 🔬 Worked on a research project at **LRE** (EPITA's Research Laboratory): [**inn-models-kglp**](https://github.com/matevl/inn-models-kglp).
+  - *The goal:* Using Interval Neural Networks (INNs) for link prediction in Knowledge Graphs to achieve **explainable** predictions through logical rules.
+  - *Evaluation:* Benchmarked multiple architectures on FB15k-237 and WN18RR to analyze the trade-off between predictive accuracy and latent space explainability.
 
 ## 💻 Tech Stack & Tools
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
