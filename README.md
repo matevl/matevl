@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Matteo Evola
 
-**Software Engineering Student @ [EPITA](https://www.epita.fr/en/)**
+**Software Engineering Student @ [INSA Lyon](https://www.insa-lyon.fr/en)**
 
 I'm an engineering student with a strong interest in research, low-level mechanics, and clean code. I'm currently looking for an **internship** to put my skills to work in a real-world environment.
 
@@ -12,11 +12,12 @@ I'm an engineering student with a strong interest in research, low-level mechani
 ## 💻 Tech Stack & Tools
 
 The primary languages I work with:
-
-- **Rust** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="20" align="center" alt="Rust" />
-- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" align="center" alt="Python" />
-- **C#** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="20" align="center" alt="C#" />
-- **C** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="18" align="center" alt="C" />
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ❄️ I daily-drive **NixOS** for reproducible environments. You can check out my declarative system configuration [here](https://github.com/matevl/home).
 
